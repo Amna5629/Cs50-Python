@@ -1,57 +1,69 @@
-# Cs50-Python
-My solutions to Harvard’s CS50P (Introduction to Programming with Python) – including problem sets and the final project Birthstone Explorer.
 
-**Topics Covered**
+# CS50-Python
 
-Functions and Variables
-- Understanding how to define and use functions in Python.
+My solutions to Harvard’s **CS50P** (Introduction to Programming with Python) – including problem sets and the final project **Birthstone Explorer**.
 
-- Variables and their scope in different contexts.
+---
 
-Conditionals
-- Using if, else, and elif to make decisions in the code.
+## Topics Covered
 
-- Logical operators (and, or, not) to combine conditions.
+### Functions and Variables
 
-Loops
-- Implementing for and while loops to iterate over sequences.
+* Understanding how to define and use functions in Python.
+* Variables and their scope in different contexts.
 
-Using break, continue, and else with loops for control flow.
+### Conditionals
 
-Exceptions
-- Handling errors with try, except, else, and finally blocks.
+* Using `if`, `else`, and `elif` to make decisions in the code.
+* Logical operators (`and`, `or`, `not`) to combine conditions.
 
-- Raising exceptions when necessary to handle edge cases.
+### Loops
 
-Libraries
-- Importing and using Python libraries and modules.
+* Implementing `for` and `while` loops to iterate over sequences.
+* Using `break`, `continue`, and `else` with loops for control flow.
 
-- Using third-party libraries such as requests and beautifulsoup4.
+### Exceptions
 
-Unit Tests
-- Writing unit tests with Python’s built-in unittest framework.
+* Handling errors with `try`, `except`, `else`, and `finally` blocks.
+* Raising exceptions when necessary to handle edge cases.
 
-- Ensuring code quality by testing individual functions and methods.
+### Libraries
 
-File I/O
-- Reading from and writing to files in Python.
+* Importing and using Python libraries and modules.
+* Using third-party libraries such as `requests` and `beautifulsoup4`.
 
-- Handling different file formats like .txt and .csv.
+### Unit Tests
 
-Regular Expressions
-- Using the re library to perform pattern matching and text manipulation.
+* Writing unit tests with Python’s built-in `unittest` framework.
+* Ensuring code quality by testing individual functions and methods.
 
-- Finding and replacing patterns in strings.
+### File I/O
 
-Object-Oriented Programming (OOP)
-- Creating classes and objects in Python.
+* Reading from and writing to files in Python.
+* Handling different file formats like `.txt` and `.csv`.
 
-- Implementing inheritance, encapsulation, and polymorphism.
+### Regular Expressions
 
-Et Cetera
-- Additional Python concepts such as list comprehensions, decorators, and lambda functions.
+* Using the `re` library to perform pattern matching and text manipulation.
+* Finding and replacing patterns in strings.
 
-Final Project
-          Description: For the final project, I developed "Birthstone explorer". This project combines multiple aspects of Python programming learned throughout the course.
+### Object-Oriented Programming (OOP)
 
-Technologies Used: Python, Flask, SQLite 
+* Creating classes and objects in Python.
+* Implementing inheritance, encapsulation, and polymorphism.
+
+### Et Cetera
+
+* Additional Python concepts such as list comprehensions, decorators, and lambda functions.
+
+---
+
+## Final Project
+
+### Birthstone Explorer
+
+* **Description:** For the final project, I developed **Birthstone Explorer**. This project combines multiple aspects of Python programming learned throughout the course, allowing users to explore birthstones based on their month of birth. 
+
+* **Technologies Used:** Python, Flask, SQLite.
+
+
